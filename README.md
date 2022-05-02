@@ -9,6 +9,10 @@ I am <strong>Wissam</strong>, a professor of computer engineering
 - <a href="https://www.github.com/wissamfawaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wissamfawaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+## GitHub Stats
+
+<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz" /></a>
+
 ## Social Media 
 
 <a href="https://www.linkedin.com/in/wissam-fawaz-6b440839/">
@@ -18,8 +22,4 @@ src="https://img.shields.io/github/followers/wissamfawaz?logo=github&style=for-t
 <a href= "https://www.twitter.com/wissam_f/">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<br />
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz" />
