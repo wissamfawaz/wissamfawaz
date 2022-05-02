@@ -4,7 +4,7 @@
 
 I am <strong>Wissam</strong>, a professor of computer engineering
 - 😍 I am a lifelong learner with a passion for software development 
-- ✉️ You can contact me at [wissamfawaz12h@gmail.com](mailto:wissamfawaz12@gmail.com)
+- ✉️ You can contact me at [wissamfawaz12@gmail.com](mailto:wissamfawaz12@gmail.com)
 - 🔗 More info about me can be found at: https://wissamfawaz.com/
 
 <a href="https://www.github.com/wissamfawaz"><img
