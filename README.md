@@ -28,3 +28,5 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz" /></a>
 
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz" /></a>
+
+<a href="http://www.github.com/wissamfawaz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissamfawaz&theme=vue" /></a>
