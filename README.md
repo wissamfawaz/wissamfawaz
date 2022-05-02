@@ -1,12 +1,12 @@
 # Hello there, 👋
 
+## About Me
+
 <a href="https://www.github.com/wissamfawaz"><img
 src="https://img.shields.io/github/followers/wissamfawaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <a href="https://www.github.com/wissamfawaz"><img
 src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwissamfawaz1212%2Fhit-counter" /></a>
-
-## About Me
 
 I am <strong>Wissam</strong>, a professor of computer engineering
 - 😍 I am a lifelong learner with a passion for software development 
