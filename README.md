@@ -6,12 +6,12 @@ I am <strong>Wissam</strong>, a professor of computer engineering
 - 😍 I am a lifelong learner with a passion for software development 
 - ✉️ You can contact me at [wissamfawaz12h@gmail.com](mailto:wissamfawaz12@gmail.com)
 - 🔗 More info about me can be found at: https://wissamfawaz.com/
-- <a href="https://www.github.com/wissamfawaz" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.github.com/wissamfawaz"><img
 src="https://img.shields.io/github/followers/wissamfawaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## GitHub Stats
-
-<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz" /></a>
+<a href="https://www.github.com/wissamfawaz"><img
+src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwissamfawaz1212%2Fhit-counter" /></a>
 
 ## Social Media 
 
@@ -23,3 +23,8 @@ src="https://img.shields.io/github/followers/wissamfawaz?logo=github&style=for-t
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
+## GitHub Badges
+
+<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz" /></a>
+
+<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz" /></a>
