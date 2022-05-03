@@ -4,8 +4,8 @@
 
 I am <strong>Wissam</strong>, a professor of computer engineering
 - 😍 I am a lifelong learner with a passion for software development 
-- ✉️ You can contact me at [wissamfawaz12@gmail.com](mailto:wissamfawaz12@gmail.com)
-- 🔗 More info about me can be found at: https://wissamfawaz.com/
+- ✉️  <a href="mailto:wissamfawaz12@gmail.com">Contact me</a>
+- 🔗 [More info about me](https://wissamfawaz.com/)
 - <a href="https://www.github.com/wissamfawaz"><img
 src="https://img.shields.io/github/followers/wissamfawaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 - <a href="https://www.github.com/wissamfawaz"><img
