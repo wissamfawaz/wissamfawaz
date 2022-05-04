@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am <strong>Wissam</strong>, a professor of computer engineering
+I am **Wissam**, a professor of computer engineering at the [Lebanese American University](https://www.lau.edu.lb/)
 - 😍 I am a lifelong learner with a passion for software development 
 - ✉️  <a href="mailto:wissamfawaz12@gmail.com">Contact me</a>
 - 🔗 [More info about me](https://wissamfawaz.com/)
