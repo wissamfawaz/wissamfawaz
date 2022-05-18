@@ -32,7 +32,7 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 
 ## GitHub Badges
 
-<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz" /></a>
+<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz&show_icons=true" /></a>
 
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz" /></a>
 
