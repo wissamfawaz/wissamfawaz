@@ -12,6 +12,7 @@ src="https://img.shields.io/github/followers/wissamfawaz?logo=github&style=for-t
 src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwissamfawaz1212%2Fhit-counter" /></a>
 
 ## Tools and Languages
+
 <a href="https://code.visualstudio.com/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /></a>
 <a href="https://www.java.com/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /></a>
@@ -37,3 +38,9 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz" /></a>
 
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissamfawaz&theme=vue" /></a>
+
+## Git profile Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wissamfawaz&" alt="wissamfawaz" /></a> 
+</p>
