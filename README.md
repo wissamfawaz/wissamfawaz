@@ -19,6 +19,9 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 <a href="https://www.python.org/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a>
+<br />
+<br />
+<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz" /></a>
 
 
 ## Social Media 
@@ -31,10 +34,8 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-## GitHub Badges
+## GitHub Activity
 
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz&show_icons=true" /></a>
-
-<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz" /></a>
 
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissamfawaz&theme=vue" /></a>
