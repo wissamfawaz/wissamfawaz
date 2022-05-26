@@ -38,9 +38,3 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz" /></a>
 
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissamfawaz&theme=vue" /></a>
-
-## Git profile Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wissamfawaz&" alt="wissamfawaz" /></a> 
-</p>
