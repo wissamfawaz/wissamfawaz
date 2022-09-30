@@ -40,3 +40,7 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 <a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz&show_icons=true" /></a>
 
 <!-- <a href="http://www.github.com/wissamfawaz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wissamfawaz&theme=vue" /></a> -->
+
+## Badges
+
+[![@wissamfawaz's Holopin board](https://holopin.io/api/user/board?user=wissamfawaz)](https://holopin.io/@wissamfawaz)
