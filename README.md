@@ -21,8 +21,7 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a>
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz)](https://github.com/wissamfawaz/github-readme-stats)
-
+<a href="https://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamfawaz&layout=compact" alt="wissamfawaz" /></a>
 
 ## Social Media 
 
