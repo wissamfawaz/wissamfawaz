@@ -35,9 +35,9 @@ src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgith
 </a>
 
 ## GitHub Activity
-<a href="http://www.github.com/wissamfawaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wissamfawaz" alt="wissamfawaz" /></a>
+<a href="https://www.github.com/wissamfawaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wissamfawaz" alt="wissamfawaz" /></a>
 <br />
-[![Wissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissamfawaz)](https://github.com/wissamfawaz/github-readme-stats)
+<a href="https://www.github.com/wissamfawaz"><img src="https://github-readme-stats.vercel.app/api?username=wissamfawaz" alt="wissamfawaz" /></a>
 
 ## Badges
 
