@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am **Wissam**, a lifelong learner with a lot of passion for software development 
+I am **Wissam**, a lifelong learner with a lot of passion for software development and data science. 
 - ✉️  <a href="mailto:wissamfawaz12@gmail.com">Contact me</a>
 - 🔗 [Personal webpage](https://wissamfawaz.com/)
 - <a href="https://www.github.com/wissamfawaz"><img
